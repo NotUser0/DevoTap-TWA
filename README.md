@@ -25,3 +25,10 @@ Welcome to the DevoBot Web Application project! Our goal is to create a professi
 - **Donations:** A portion of the project's funding will be donated to contributors based on their involvement.
 - **Recognition:** Your name will be included in the project's contributors' list.
 - **Tokens:** As a token of appreciation, a certain amount of tokens will be allocated to you for your contributions.
+
+
+For work and Contact please send message
+
+Telegram UserName :
+
+https://t.me/DevoTap
